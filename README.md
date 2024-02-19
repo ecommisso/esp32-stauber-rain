@@ -21,6 +21,8 @@ Power the device by connecting it to a battery (here we used a 130mAh battery, a
 
 Plug in the adapter to the ESP32 to successfully power it on.
 
+![Example Image](IMG_1821.jpg)
+
 ## More Information
 
 Please see the following site for further artistic documentation: 
